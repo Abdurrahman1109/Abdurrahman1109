@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ansari Abdurrahman
 - 👀 I’m interested in Softwere Development
-- 🌱 I’m currently Working as Software Trainee at Verraxis Technology
+- 🌱 I’m currently Working as Software Trainee Intern at Verraxis Technology
 - 💞️ I’m looking to collaborate on Softwere Development
 - 📫 Mobile Number:9970395128
 
