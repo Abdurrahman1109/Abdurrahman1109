@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abdurrahman1109
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Development
+- 👋 Hi, I’m @Ansari Abdurrahman
+- 👀 I’m interested in Softwere Development
+- 🌱 I’m currently Working as Software Trainee at Verraxis Technology
+- 💞️ I’m looking to collaborate on Softwere Development
 - 📫 Mobile Number:9970395128
 
 <!---
