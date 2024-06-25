@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently Working as Software Trainee Intern at Verraxis Technology
 - 💞️ I’m looking to collaborate on Softwere Development
-- 📫 Mobile Number:9970395128
+- 📫 Mobile Number: 9970395128
 
 <!---
 Abdurrahman1109/Abdurrahman1109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
